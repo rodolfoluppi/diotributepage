@@ -1,0 +1,68 @@
+h1, h2, h3{
+	text-align: center;
+	color: white;
+	font-family: 'Metal Mania', cursive;
+}
+h1 {
+	font-size: 4.2em;
+}
+h2 {
+	font-style: italic;
+}
+.text {
+	padding-top: 20px;
+	padding-bottom: 10px;
+	font-family: 'Carrois Gothic', sans-serif;
+	color: white;
+	text-indent: 20px;
+	font-size: 1.3em;
+}
+
+body {
+	background-image: linear-gradient(to bottom, black, #333);
+	/*background: url(../img/rock-wallpaper-24.jpg) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+     background-size: cover;*/
+	background-attachment: fixed
+}
+ul {
+	font-family: 'Carrois Gothic', sans-serif;
+	color: white;
+	font-size: 1.3em;
+}
+q {
+	color: white;
+}
+footer {
+	height: 40px;
+	text-align: center;
+	font-size: 0.8em !important;
+	font-style: italic;
+	color: white;
+	padding-top: 40px !important;
+}
+#topdiv {
+	margin-bottom: 40px;
+}
+#quote{
+	margin-bottom: 10px;
+}
+.vid {
+	margin-bottom: 25px;
+	position:relative;
+	height:0;
+	padding-bottom:56.25%;
+}
+iframe {
+	border:none;
+	position:absolute;
+	
+	width:100%;
+	height:100%;
+	left:0
+}
+.tx {
+	text-align: center;
+}
